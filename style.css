@@ -531,7 +531,7 @@ img {
 
 .summary-box dl {
   display: grid;
-  grid-template-columns: 9.5em 1fr;
+  grid-template-columns: 11em 1fr;
   gap: 6px 12px;
   margin: 0;
   font-size: 13.5px;
